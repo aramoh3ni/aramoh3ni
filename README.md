@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @aramoh3ni
+- 👀 I’m interested in JavaScript and Pyton.
+- 🌱 I’m currently learning Advanced Data Stracture And Algorithm Using Python.
+- 📫 How to reach me 
+-     Email: alireza.mohseni.se@gmail.com
+-     Website: aramoh3ni.netlify.app/
