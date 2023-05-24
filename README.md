@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Fill Year University Thesis]
 
 - 🌱 I’m currently learning **NextJS**
-- 
+
 - 💬 Ask me about **JavaScript, Python**
 
 - 📫 How to reach me **alireza.mohseni.se@gmail.com**
