@@ -14,9 +14,6 @@
 <h4 align="center">Frontend Software Engineer @
 <a href="https://www.linkedin.com/company/jsdojodev/" target="blank">js-dojo</a>
 </h4>
-<span style="width:100vw;display:flex;justify-content:center">
-<hr style="height:.1px;width:100%" />
-</span>
 
 
 
