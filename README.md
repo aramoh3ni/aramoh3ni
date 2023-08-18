@@ -17,7 +17,7 @@
 
 
 
-- 🔭 I’m currently working on My **University Thesis**
+- 🔭 I’m currently working on My **Opensource [`Moneyboxapp`](https://github.com/aramoh3ni/money-box-app)** platform.
 
 - 🌱 I’m currently learning **NextJS**
 
