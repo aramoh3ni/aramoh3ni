@@ -21,8 +21,8 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **JavaScript, Typescript, React.Js**
+- 💬 Ask me about **JavaScript, Typescript, React.Js & Next.Js**
 
-- 📫 How to reach me **alireza.mohseni.se@gmail.com**
+- 📫 Reach me through **alireza.mohseni.se@gmail.com**
 
 - 📄 Know about my experiences at linkedin/[@aramoh3ni](https://www.linkedin.com/in/aramoh3ni/)
