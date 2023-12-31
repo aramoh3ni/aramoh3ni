@@ -1,6 +1,6 @@
 
 <div>
-<img src="https://media.licdn.com/dms/image/D4D16AQEepcIqPP13eQ/profile-displaybackgroundimage-shrink_350_1400/0/1690212070053?e=1701907200&v=beta&t=jtxZUp8JK3fAPNVCPUk3_goJ6inyEr42_rLpIB-34tg" style="border-radius: 15px" />
+<img src="https://media.licdn.com/dms/image/D4D16AQEepcIqPP13eQ/profile-displaybackgroundimage-shrink_350_1400/0/1690212073963?e=1709769600&v=beta&t=XRXIMddJDb9GyfuWUzySfSVW65tKBI5_r5fTPYB3sqw" style="border-radius: 15px" />
 </div>
 
 <p align="right">
@@ -12,7 +12,7 @@
 
 <h1 align="center">Hey 👋, I'm Alireza Mohseni</h1>
 <h4 align="center">Frontend Software Engineer @
-<a href="https://www.linkedin.com/company/jsdojodev/" target="blank">js-dojo</a>
+<a href="https://gmdirecthire.co.uk/" target="blank">gmdirecthire</a>
 </h4>
 
 
