@@ -18,9 +18,9 @@
 </h4>
 
 
-- 🔭 I’m currently working on My **Opensource [`Moneyboxapp`](https://github.com/aramoh3ni/money-box-app)** platform.
+- 🔭 I’m currently working on My **Opensource [`Blockchain`](https://github.com/aramoh3ni/money-box-app)** platform.
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Blockchain Technoloogy**
 
 - 💬 Ask me about **JavaScript, Typescript, React.Js & Next.Js**
 
@@ -48,6 +48,8 @@
   <img width="12" />
   <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/E/ethereum-logo-DE26DD608D-seeklogo.com.png" />
+  <img src="https://icons.veryicon.com/png/o/miscellaneous/color-work-icon/blockchain-2.png"  height="40" alt="Blockchain technology"  />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/E/ethereum-logo-DE26DD608D-seeklogo.com.png"  height="40" alt="Ethereum technology"  />
 </div>
 
