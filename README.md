@@ -18,8 +18,6 @@
 </h4>
 
 
-- 🔭 I’m currently working on My **Opensource [`Blockchain`](https://github.com/aramoh3ni/money-box-app)** platform.
-
 - 🌱 I’m currently learning **Blockchain Technoloogy**
 
 - 💬 Ask me about **JavaScript, Typescript, React.Js & Next.Js**
