@@ -1,7 +1,9 @@
 
 <div>
-<img src="https://media.licdn.com/dms/image/D4D16AQEepcIqPP13eQ/profile-displaybackgroundimage-shrink_350_1400/0/1690212073963?e=1709769600&v=beta&t=XRXIMddJDb9GyfuWUzySfSVW65tKBI5_r5fTPYB3sqw" style="border-radius: 15px" />
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQEepcIqPP13eQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690212073963?e=1736380800&v=beta&t=YC4BMwgccuzD-eG5u7XOrrTZBdXKsnQOHrtarhj736w" style="border-radius: 15px" />
 </div>
+
+
 
 <p align="right">
   <a href="https://twitter.com/aramoh3ni" target="blank">
@@ -45,5 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/E/ethereum-logo-DE26DD608D-seeklogo.com.png" />
 </div>
 
