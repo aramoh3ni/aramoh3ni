@@ -13,14 +13,14 @@
 
 
 <h1 align="center">Hey 👋, I'm Alireza Mohseni</h1>
-<h4 align="center">Frontend Software Engineer @
+<h4 align="center">Software Engineer @
 <a href="https://gmdirecthire.co.uk/" target="blank">gmdirecthire</a>
 </h4>
 
 
 - 🌱 I’m currently learning **Blockchain Technoloogy**
 
-- 💬 Ask me about **JavaScript, Typescript, React.Js & Next.Js**
+- 💬 Ask me about **JavaScript, Typescript, React.Js, Next.Js, Nest.js, Prisam & Drizzle**
 
 - 📫 Reach me through **alireza.mohseni.se@gmail.com**
 
