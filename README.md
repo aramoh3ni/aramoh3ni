@@ -1,6 +1,6 @@
 
 <div>
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQEepcIqPP13eQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690212073963?e=1736380800&v=beta&t=YC4BMwgccuzD-eG5u7XOrrTZBdXKsnQOHrtarhj736w" style="border-radius: 15px" />
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQEepcIqPP13eQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690212073963?e=1742428800&v=beta&t=0kBlDu9FxHgMuHCuIp8lOjlAle353KbDqbXoEPwEnjI" style="border-radius: 15px" />
 </div>
 
 
@@ -44,10 +44,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" height="40" alt="javascript logo"  />
+  <img src="https://miro.medium.com/v2/resize:fit:380/1*4g9gB2zUU9x1bZTOJXtZWA.png" height="40" alt="react query logo"  />
   <img width="12" />
   <img src="https://icons.veryicon.com/png/o/miscellaneous/color-work-icon/blockchain-2.png"  height="40" alt="Blockchain technology"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/E/ethereum-logo-DE26DD608D-seeklogo.com.png"  height="40" alt="Ethereum technology"  />
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png"  height="40" alt="Ethereum technology"  />
 </div>
 
