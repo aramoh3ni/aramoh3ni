@@ -44,10 +44,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:380/1*4g9gB2zUU9x1bZTOJXtZWA.png" height="40" alt="react query logo"  />
+  <img src="https://img.stackshare.io/service/25599/default_c6db7125f2c663e452ba211df91b2ced3bb7f0ff.png" height="40" alt="react query logo"  />
   <img width="12" />
-  <img src="https://icons.veryicon.com/png/o/miscellaneous/color-work-icon/blockchain-2.png"  height="40" alt="Blockchain technology"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg"  height="40" alt="Nest technology"  />
   <img width="12" />
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png"  height="40" alt="Ethereum technology"  />
+  <img src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png"  height="40" alt="Nest technology"  />
+  <img width="12" />
+  <img src="https://images.opencollective.com/drizzle-orm/9405e48/logo/256.png"  height="40" alt="Nest technology"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_PostgreSQL.png"  height="40" alt="Nest technology"  />
 </div>
 
