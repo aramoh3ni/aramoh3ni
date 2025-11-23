@@ -1,30 +1,19 @@
 
 <div>
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQEepcIqPP13eQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690212073963?e=1742428800&v=beta&t=0kBlDu9FxHgMuHCuIp8lOjlAle353KbDqbXoEPwEnjI" style="border-radius: 15px" />
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQEepcIqPP13eQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690212073963?e=1765411200&v=beta&t=PUOJ5NepUBpZDiZlDelzyXvJAIB32kxZQHIxtPmtvo0" style="border-radius: 15px" />
 </div>
 
-
-
-<p align="right">
-  <a href="https://twitter.com/aramoh3ni" target="blank">
-    <img src="https://img.shields.io/twitter/follow/aramoh3ni?logo=twitter&style=for-the-badge" alt="aramoh3ni" />
-  </a> 
-</p>
-
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aramoh3ni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aramoh3ni) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/aramoh3ni) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aramoh3ni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alireza.mohseni.se@gmail.com) 
 
 <h1 align="center">Hey 👋, I'm Alireza Mohseni</h1>
+
+
 <h4 align="center">Software Engineer @
 <a href="https://gmdirecthire.co.uk/" target="blank">gmdirecthire</a>
 </h4>
 
 
-- 🌱 I’m currently learning **Blockchain Technoloogy**
-
-- 💬 Ask me about **JavaScript, Typescript, React.Js, Next.Js, Nest.js, Prisam & Drizzle**
-
-- 📫 Reach me through **alireza.mohseni.se@gmail.com**
-
-- 📄 Know about my experiences at linkedin/[@aramoh3ni](https://www.linkedin.com/in/aramoh3ni/)
+<p>I’m a software engineer passionate about building scalable web applications, clean architectures, and great user experiences.<br>I work mainly with TypeScript, React, Next.js, Node.js, and modern frontend tooling.<br>I enjoy solving complex problems, contributing to open-source projects, and constantly learning new technologies.<br><br>💡 I believe good code is simple, maintainable, and purposeful.</p>
 
 <br />
 <br />
@@ -54,4 +43,14 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_PostgreSQL.png"  height="40" alt="Nest technology"  />
 </div>
+
+
+# 📊 GitHub Stats:
+
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=aramoh3ni&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=aramoh3ni&theme=tokyonight&hide_border=true" height="160" />
+</div>
+
+
 
