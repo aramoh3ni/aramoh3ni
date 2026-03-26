@@ -1,7 +1,7 @@
 
-<div>
+<!-- <div>
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQEepcIqPP13eQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690212073963?e=1765411200&v=beta&t=PUOJ5NepUBpZDiZlDelzyXvJAIB32kxZQHIxtPmtvo0" style="border-radius: 15px" />
-</div>
+</div> -->
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aramoh3ni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aramoh3ni) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/aramoh3ni) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aramoh3ni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alireza.mohseni.se@gmail.com) 
 
@@ -44,13 +44,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_PostgreSQL.png"  height="40" alt="Nest technology"  />
 </div>
 
-
-# 📊 GitHub Stats:
-
-<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+<!-- <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=aramoh3ni&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=aramoh3ni&theme=tokyonight&hide_border=true" height="160" />
 </div>
-
+ -->
 
 
